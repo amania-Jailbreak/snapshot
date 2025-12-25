@@ -1,0 +1,6 @@
+fastapi[standard]
+cryptography
+pymongo
+gridfs
+dotenv
+bson
