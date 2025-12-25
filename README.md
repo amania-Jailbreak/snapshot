@@ -67,7 +67,3 @@ GET /files
 ### LICENSE
 
 <a href="https://amania.jp">SnapShot</a> © 2025 by <a href="https://amania.jp/about">amania</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="width:0.8em;height:0.8em;margin-left:.2em;vertical-align:middle;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="width:0.8em;height:0.8em;margin-left:.2em;vertical-align:middle;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="width:0.8em;height:0.8em;margin-left:.2em;vertical-align:middle;">
-<img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="width:0.8em;height:0.8em;margin-left:.2em;vertical-align:middle;">
